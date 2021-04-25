@@ -1,0 +1,25 @@
+body
+{
+    /*background: rgb(251,204,213);*/
+background: linear-gradient(180deg, rgba(240, 114, 64, 0.596) 3%, rgba(245, 234, 72, 0.603) 100%);
+}
+#avatar
+{
+    display: block;
+    margin: 0 auto;
+    height: 90%;
+    width:80%;
+    border-radius: 500px;
+}
+.text
+{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:white;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+.container
+{
+    margin-top:200px;
+}
